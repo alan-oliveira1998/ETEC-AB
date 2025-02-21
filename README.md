@@ -1,2 +1,2 @@
-# ETEC-AB
+# ETECAB
 Resolução do exercício de ETEC AB
